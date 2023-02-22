@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: ea18ebcd7dcbc8840aec309ac5a0f873
+  - enabled: 1
+    path: Assets/Scenes/Jack's Scene.unity
+    guid: 3ee21e91fecbc9845902fedabac07bdd
+  - enabled: 0
+    path: Assets/Scenes/Prototype scene.unity
+    guid: b934695d04080bc49a336a715a6d9663
+  - enabled: 0
+    path: Assets/Scenes/WinGame.unity
+    guid: a859db5b308259649bd62766b4ba9f1d
+  - enabled: 0
+    path: Assets/Scenes/LoseGame.unity
+    guid: 94fd6828f96c3d4459412735f320d9c9
+  m_configObjects: {}
